@@ -1,6 +1,6 @@
 {
   "name": "material-ui-dialogs",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "Promise-based material-ui alert/confirm/prompt",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,7 @@
   "author": "Jonathan Apodaca",
   "license": "ISC",
   "peerDependencies": {
-    "material-ui": "^0.15.0",
+    "material-ui": "^0.16.7",
     "react": "^15.0.1",
     "react-dom": "^15.0.1"
   },
@@ -41,8 +41,8 @@
     "eslint": "^3.12.2",
     "eslint-plugin-react": "^6.8.0",
     "material-ui": "^0.16.6",
-    "react": "^15.4.1",
-    "react-dom": "^15.4.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
     "webpack": "^1.13.0"
   },
   "repository": "jrop/material-ui-dialogs"
